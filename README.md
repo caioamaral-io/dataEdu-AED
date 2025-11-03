@@ -1,6 +1,6 @@
 # dataEdu
 
-Projeto desenvolvido para a disciplina de **Projetos** da **CESAR School**, com foco na **Análise Explorátoria dos Dados** (AED)**.
+Projeto desenvolvido para a disciplina de **Projetos** da **CESAR School**, com foco na **Análise Explorátoria dos Dados** **(AED)**.
 
 ---
 
